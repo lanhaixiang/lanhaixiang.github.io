@@ -1,0 +1,25 @@
+# jemdoc: menu{menu}{research.html}
+# jemdoc: nofooter
+= Papers
+
+Author names are listed in alphabetical order.
+
+== Working Papers
+- Dissecting the Impact of Model Misspecification in Data-Driven Optimization\n
+# Adam Elmachtoub, Henry Lam, *Haixiang Lan*, Haofeng Zhang{{<sup>*</sup>}} \n
+  Adam Elmachtoub, Henry Lam, *Haixiang Lan*, Haofeng Zhang \n
+In preparation
+
+== Publications
+
+- [https://arxiv.org/abs/2402.00311 A Tuning-Free Primal-Dual Splitting Algorithm for Large-Scale Semidefinite Programming]\n
+# *Haixiang Lan*{{<sup>+</sup>}}, Yinjun Wang{{<sup>+</sup>}}, Yinyu Ye\n
+*Haixiang Lan*, Yinjun Wang, Yinyu Ye\n
+Accepted to INFORMS Optimization Society (*IOS*), 2024\n
+
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4824587 LP-based Control for Network Revenue Management under Markovian Demands]\n
+# *Haixiang Lan*{{<sup>+</sup>}} , Guillermo Gallego, Zizhuo Wang, Yinyu Ye\n
+Guillermo Gallego, *Haixiang Lan*, Zizhuo Wang, Yinyu Ye\n
+Accepted to The 20th Conference on Web and Internet Economics (*WINE*), 2024\n
+
+# {{<sup>*</sup>}} means that authors are listed in alphabetical order. {{<sup>+</sup>}} means that authors are equally contributed.

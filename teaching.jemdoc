@@ -1,0 +1,27 @@
+# jemdoc: menu{menu}{teaching.html}
+# jemdoc: nofooter
+= Courseworks and Teaching
+
+== Columbia University
+Graduate Teaching Assistant:
+- IEOR 4106 Stochastic Models, Spring 2024
+- IEOR 3106 Stochastic Systems and Applications, Fall 2024
+
+== The Chinese University of Hong Kong, Shenzhen
+Undergraduate Student Teaching Fellow:
+- CHM 1001 General Chemistry, Fall 2020
+- MAT 1012 Honours Calculus II, Spring 2021
+- MAT 2006 Elementary Real Analysis, Fall 2021
+- MAT 4001 Numerical Analysis, Fall 2022, Spring 2023
+- DDA 3005 Numerical Methods, Fall 2022
+- MAT 3007 Optimization, Spring 2023
+
+== Relevant Courses
+=== CUHK(SZ)
+- Operations Research: Optimization I/II, Convex Optimization, Dynamic Programming, Optimization in Data Science and Machine Learning, Stochastic Process, Foundations of Data Science
+- Mathematics: Real Analysis, Advanced Linear Algegra, Abstract Algebra, Numerical Analysis, Partial Differential Equations, Mathematical Modeling, Matrix Analysis, Graph Theory
+=== Columbia University
+- Core: Linear Optimization, Combinatorial Optimization, Probability Theory, Stochastic Process
+- Others: Analysis of Algorithms, Machine Learning, Machine Learning Theory, High Dimensional Probability, Theoretical Statistics, Contextual Optimization
+
+
