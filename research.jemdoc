@@ -2,21 +2,26 @@
 # jemdoc: nofooter
 = Papers
 
-# Author names are listed in alphabetical order.
- (α-β: author names are sorted alphabetically)
 
+
+# Author names are listed in alphabetical order.
+ (￥\\\\\alpha￥-￥\\\\beta￥: author names are sorted alphabetically)
+#￥f(n) =\\\\frac{1}{\\sqrt{5}}(\\\\frac{1 + \\sqrt{5}}{2} )^n￥
+#￥\\\\frac{1}{3}￥
+#￥(\\\\frac{1+\\sqrt{5}}{2})^n-\\\\frac{1-\\sqrt{5}}{2}￥
+#￥\\\\alpha\+\\\\beta￥
+#\(\alpha+\beta\)
+#{{\(\alpha \\+ \beta\)}}
 == Working Papers
 - Local Model Misspecification in Data-Driven Optimization\n
 # Adam Elmachtoub, Henry Lam, *Haixiang Lan*, Haofeng Zhang{{<sup>*</sup>}} \n
   *Haixiang Lan*, Luofeng Liao, Adam Elmachtoub, Christian Kroer, Henry Lam, Haofeng Zhang \n
 In preparation
-
-
 == Publications
 
 - [https://arxiv.org/abs/2402.00311 A Tuning-Free Primal-Dual Splitting Algorithm for Large-Scale Semidefinite Programming]\n
-# *Haixiang Lan*{{<sup>+</sup>}}, Yinjun Wang{{<sup>+</sup>}}, Yinyu Ye (α-β)\n
-*Haixiang Lan*, Yinjun Wang, Yinyu Ye (α-β)\n
+# *Haixiang Lan*{{<sup>+</sup>}}, Yinjun Wang{{<sup>+</sup>}}, Yinyu Ye (￥\\\\alpha￥-￥\\\\beta￥)\n
+*Haixiang Lan*, Yinjun Wang, Yinyu Ye (￥\\\alpha￥-￥\\\beta￥)\n
 Accepted to INFORMS Optimization Society (*IOS*), 2024\n
 
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4824587 LP-based Control for Network Revenue Management under Markovian Demands]\n
@@ -26,7 +31,23 @@ Accepted to The 20th Conference on Web and Internet Economics (*WINE*), 2024\n
 
 - Dissecting the Impact of Model Misspecification in Data-Driven Optimization\n
 # Adam Elmachtoub, Henry Lam, *Haixiang Lan*, Haofeng Zhang{{<sup>*</sup>}} \n
-  Adam Elmachtoub, Henry Lam, *Haixiang Lan*, Haofeng Zhang (α-β)\n
+  Adam Elmachtoub, Henry Lam, *Haixiang Lan*, Haofeng Zhang (￥\\\alpha￥-￥\\\beta￥)\n
 Accepted to The 28th International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2025\n
 
 # {{<sup>*</sup>}} means that authors are listed in alphabetical order. {{<sup>+</sup>}} means that authors are equally contributed.
+
+
+~~~
+{}{raw}
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['￥', '￥'], ['\\(', '\\)']],
+	displayMath: [ ["￥￥","￥￥"], ["\\[", "\\]"] ]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+~~~
