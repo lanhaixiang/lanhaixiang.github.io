@@ -5,18 +5,19 @@
 
 
 # Author names are listed in alphabetical order.
- (￥\\\\\alpha￥-￥\\\\beta￥: author names are sorted alphabetically)
+ (￥\\\\alpha￥-￥\\\\beta￥: author names are sorted alphabetically)
 #￥f(n) =\\\\frac{1}{\\sqrt{5}}(\\\\frac{1 + \\sqrt{5}}{2} )^n￥
 #￥\\\\frac{1}{3}￥
 #￥(\\\\frac{1+\\sqrt{5}}{2})^n-\\\\frac{1-\\sqrt{5}}{2}￥
 #￥\\\\alpha\+\\\\beta￥
 #\(\alpha+\beta\)
 #{{\(\alpha \\+ \beta\)}}
+
 == Working Papers
-- The Bias-Variance Tradeoff in Data-Driven Optimization: A Local Misspecification Perspective\n
-# Adam Elmachtoub, Henry Lam, *Haixiang Lan*, Haofeng Zhang{{<sup>*</sup>}} \n
-  *Haixiang Lan*, Luofeng Liao, Adam Elmachtoub, Christian Kroer, Henry Lam, Haofeng Zhang \n
-Submitted
+- Demand Control under Cost Uncertainty\n
+  Adam Elmachtoub, Rachitesh Kumar, *Haixiang Lan* (￥\\\alpha￥-￥\\\beta￥)\n
+  In Preparation\n
+
 == Publications
 
 - [https://arxiv.org/abs/2402.00311 A Tuning-Free Primal-Dual Splitting Algorithm for Large-Scale Semidefinite Programming]\n
@@ -33,6 +34,11 @@ Accepted to The 20th Conference on Web and Internet Economics (*WINE*), 2024\n
 # Adam Elmachtoub, Henry Lam, *Haixiang Lan*, Haofeng Zhang{{<sup>*</sup>}} \n
   Adam Elmachtoub, Henry Lam, *Haixiang Lan*, Haofeng Zhang (￥\\\alpha￥-￥\\\beta￥)\n
 Accepted to The 28th International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2025\n
+
+- The Bias-Variance Tradeoff in Data-Driven Optimization: A Local Misspecification Perspective\n
+# Adam Elmachtoub, Henry Lam, *Haixiang Lan*, Haofeng Zhang{{<sup>*</sup>}} \n
+  *Haixiang Lan*, Luofeng Liao, Adam Elmachtoub, Christian Kroer, Henry Lam, Haofeng Zhang \n
+Accepted to The 39th Annual Conference on Neural Information Processing Systems (*NeurIPS*), 2025\n
 
 # {{<sup>*</sup>}} means that authors are listed in alphabetical order. {{<sup>+</sup>}} means that authors are equally contributed.
 
