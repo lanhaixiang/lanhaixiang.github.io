@@ -14,13 +14,16 @@
 #{{\(\alpha \\+ \beta\)}}
 
 == Working Papers
-- Demand Control under Cost Uncertainty\n
+- Achieving Low Regret for Contextual Network Revenue Management\n
+  Adam Elmachtoub, Rachitesh Kumar, *Haixiang Lan* (￥\\\alpha￥-￥\\\beta￥)\n
+
+- Data-Driven Robust Group Selection\n
   Adam Elmachtoub, Rachitesh Kumar, *Haixiang Lan* (￥\\\alpha￥-￥\\\beta￥)\n
   In Preparation\n
 
 == Publications
 
-- The Bias-Variance Tradeoff in Data-Driven Optimization: A Local Misspecification Perspective\n
+- [https://www.arxiv.org/abs/2510.18215 The Bias-Variance Tradeoff in Data-Driven Optimization: A Local Misspecification Perspective]\n
 # Adam Elmachtoub, Henry Lam, *Haixiang Lan*, Haofeng Zhang{{<sup>*</sup>}} \n
   *Haixiang Lan*, Luofeng Liao, Adam Elmachtoub, Christian Kroer, Henry Lam, Haofeng Zhang \n
 Accepted to The 39th Annual Conference on Neural Information Processing Systems (*NeurIPS*), 2025\n
